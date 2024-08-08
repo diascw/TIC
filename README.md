@@ -11,7 +11,7 @@
 * Sociedade da Informação e do Conhecimento
 * Espiral do Conhecimento
 * Processos da Gestão do Conhecimento
-* TI comoapoio à Gestão do Conhecimento
+* TI como apoio à Gestão do Conhecimento
 
 ## Conteúdo 02 ##
 * Processos da Inteligência Competitiva 
