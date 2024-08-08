@@ -9,7 +9,7 @@ MARCADORES MAIS IMPORTANTES:
 - sistemas integrados
 - simuladores
 
-| as mudanças são positivas, mas há riscos de segurança e privacidade.
+| as mudanças são positivas, mas há riscos de segurança e privacidade. |
 
 TRANSFORMAÇÃO DIGITAL
 
@@ -26,3 +26,22 @@ ERA DIGITAL
 • Inovação: resolva o problema certo
 • O fracasso é uma fonte de aprendizado contínuo 
 • Produto Minimamente Viável (MVP) e interações pós-lançamento: prototipagem, experimentação rápida
+
+* excesso de informação gera Escassez de Atenção
+* tiktok é o algoritmo atual mais viciante
+* aumento de problemas como insônia, ansiedade, imediatismo.. encontrando
+
+SOCIEDADE INDUSTRIAL
+• Previsibilidade
+• Hierarquia bem definida
+• Decisões centralizadas
+• Distinção entre quem "pensa, mas não faz" e quem "faz, mas não pensa ou não deveria pensar"
+• Valores: obediência, pontualidade..
+
+SOCIEDADE DO CONHECIMENTO
+• Mudanças, rupturas
+• Agilidade
+• Autonomia
+• "Empowerment"
+• Valores: criatividade, iniciativa, improviso
+
