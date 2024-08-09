@@ -1,47 +1,63 @@
-a 4º revolução industrial nã é uma era de mudanças, mas sim, uma Mudanças de Eras.
+Indústria 4.0: Mudança de Eras
 
-MARCADORES MAIS IMPORTANTES:
-- big data
-- realidade virtual aumentada
-- automatação robótica
-- cloud computing
-- cibersecurity
-- sistemas integrados
-- simuladores
+A 4ª Revolução Industrial não é apenas uma era de mudanças, mas sim uma mudança de eras, marcada por avanços como:
 
-| as mudanças são positivas, mas há riscos de segurança e privacidade. |
+• Big Data
+• Realidade Virtual e Aumentada
+• Automação Robótica
+• Cloud Computing
+• Cibersegurança
+• Sistemas Integrados
+• Simuladores
 
-TRANSFORMAÇÃO DIGITAL
+*Embora essas mudanças tragam benefícios, também apresentam riscos de segurança e privacidade.
 
-ERA ANALÓGICA
-• Mercado de massa
-• Concorrência entre setores delimitados
-• Inovação: encontrando a solução cera
-• Falha é evitada a todo custo
-• Produto pronto
 
-ERA DIGITAL
-• Rede de clientes
-• Concorrência entre setores
-• Inovação: resolva o problema certo
-• O fracasso é uma fonte de aprendizado contínuo 
-• Produto Minimamente Viável (MVP) e interações pós-lançamento: prototipagem, experimentação rápida
+Transformação Digital
+Comparação entre a Era Analógica e a Era Digital:
 
-* excesso de informação gera Escassez de Atenção
-* tiktok é o algoritmo atual mais viciante
-* aumento de problemas como insônia, ansiedade, imediatismo.. encontrando
+• Era Analógica:
+- Mercado de massa
+- Concorrência entre setores delimitados
+- Inovação: foco em encontrar a solução certa
+- Falha evitada a todo custo
+- Produto pronto
 
-SOCIEDADE INDUSTRIAL
-• Previsibilidade
-• Hierarquia bem definida
-• Decisões centralizadas
-• Distinção entre quem "pensa, mas não faz" e quem "faz, mas não pensa ou não deveria pensar"
-• Valores: obediência, pontualidade..
+• Era Digital:
+- Rede de clientes
+- Concorrência entre setores fluidos
+- Inovação: foco em resolver o problema certo
+- Fracasso como fonte de aprendizado contínuo
+- Produto Minimamente Viável (MVP) e iterações rápidas
 
-SOCIEDADE DO CONHECIMENTO
-• Mudanças, rupturas
-• Agilidade
-• Autonomia
-• "Empowerment"
-• Valores: criatividade, iniciativa, improviso
+*O excesso de informação, exemplificado pelo algoritmo viciante do TikTok, pode gerar problemas como insônia, ansiedade e imediatismo.
 
+
+Sociedade Industrial vs. Sociedade do Conhecimento
+
+• Sociedade Industrial:
+- Previsibilidade
+- Hierarquia bem definida
+- Decisões centralizadas
+- Distinção entre "quem pensa, mas não faz" e "quem faz, mas não deveria pensar"
+- Valores: obediência e pontualidade
+
+• Sociedade do Conhecimento:
+- Mudanças e rupturas
+- Agilidade e autonomia
+- Empowerment
+- Valores: criatividade, iniciativa, improviso
+
+• Gestão do Conhecimento (Knowledge Management)
+Gestão do conhecimento é a organização do capital intelectual, que inclui:
+- Criação, organização, acesso e uso de informações
+- Captura e estruturação do conhecimento de grupos
+- Registro de boas práticas, documentação de processos e inovação
+- Aproximação das pessoas para compartilhamento e colaboração
+
+• Objetivos:
+- Acelerar a geração de novos conhecimentos
+- Transferir conhecimento entre diferentes localidades
+- Reduzir despesas e retrabalho
+- Reter conhecimento estratégico
+- Melhorar o atendimento a clientes e à sociedade
