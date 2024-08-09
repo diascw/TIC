@@ -6,14 +6,14 @@
 **Professor:** Rodrigo Baroni 
 
 
-## Conteúdo 01 ##
+## Gestão do Conhecimento ##
 
 * Sociedade da Informação e do Conhecimento
 * Espiral do Conhecimento
 * Processos da Gestão do Conhecimento
 * TI como apoio à Gestão do Conhecimento
 
-## Conteúdo 02 ##
+## Inteligência Competitiva ##
 * Processos da Inteligência Competitiva 
 * Tecnologia de Apoio à Inteligência Competitiva & Business Analytics
 
